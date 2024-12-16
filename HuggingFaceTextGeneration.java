@@ -11,7 +11,7 @@ public class HuggingFaceTextGeneration {
         try {
             // Configuración de la API
             String apiUrl = "https://api-inference.huggingface.co/models/gpt2";
-            String token = "Bearer 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"; // Token de Hugging Face
+            String token = "Bearer ingrese token huggingface"; // Token de Hugging Face
             String inputText = "Engineering is art because"; // Texto de entrada
 
             // Medir tiempo de inicio de carga (simulado)
